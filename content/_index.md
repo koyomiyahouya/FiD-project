@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: FiD Project
 toc: false
 ---
 
@@ -8,8 +8,9 @@ This is the landing page.
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="wemik" title="WeMIK" icon="book-open" >}}
+  {{< card link="fidmd" title="FiDMD" icon="user" >}}
+  {{< card link="reflh" title="refLH" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
